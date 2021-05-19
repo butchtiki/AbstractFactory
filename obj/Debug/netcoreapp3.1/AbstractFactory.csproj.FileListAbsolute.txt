@@ -1,0 +1,12 @@
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory.deps.json
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory.runtimeconfig.json
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory.runtimeconfig.dev.json
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory.dll
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp3.1/AbstractFactory.pdb
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.csprojAssemblyReference.cache
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.AssemblyInfoInputs.cache
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.AssemblyInfo.cs
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.dll
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.pdb
+/Users/fhayedavila/Projects/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp3.1/AbstractFactory.genruntimeconfig.cache

@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{458389A5-5FB3-47C9-83EC-DDB068585669}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../AbstractFactoryTest/OrcTest.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="41" />
+      <File FileName="IAbstractFactory.cs" Line="6" Column="29" />
+      <File FileName="Enemy.cs" Line="9" Column="2" />
+      <File FileName="Legion.cs" Line="28" Column="10" />
+      <File FileName="Orc.cs" Line="25" Column="10" />
+      <File FileName="EnemyFactory.cs" Line="15" Column="25" />
+      <File FileName="Elf.cs" Line="22" Column="10" />
+      <File FileName="../AbstractFactoryTest/UnitTest1.cs" Line="29" Column="10" />
+      <File FileName="../AbstractFactoryTest/Stubs/StubAbstractFactory.cs" Line="19" Column="30" />
+      <File FileName="../AbstractFactoryTest/EnemyFactory.cs" Line="29" Column="10" />
+      <File FileName="../AbstractFactoryTest/LegionTest.cs" Line="1" Column="1" />
+      <File FileName="../AbstractFactoryTest/OrcTest.cs" Line="9" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractFactory" expanded="True">
+            <Node name="AbstractFactory" expanded="True" />
+            <Node name="AbstractFactoryTest" expanded="True">
+              <Node name="Stubs" expanded="True" />
+              <Node name="OrcTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AbstractFactory FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AbstractFactoryTest FirstBuild="True" />
+  <DisabledProjects>
+    <String>AbstractFactoryTest/AbstractFactoryTest.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
